@@ -53,7 +53,7 @@ Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, liv
 ⭐️ From [Riqki Kamal Amrela](https://github.com/riqkml)
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/riqkml/recipeapp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riqkml&repo=A-POP" />
 </a>
 
