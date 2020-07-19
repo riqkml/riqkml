@@ -19,7 +19,7 @@
 <br />
 
 Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, live Jakarta, currently, Manage my own team for open source project on AmrelCorp 👨🏽‍💻 , Classic music fans and interest with strategic Game.
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D858176756&psig=AOvVaw3M705OOrZlpBioR69BWQSb&ust=1595229041880000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJilhbXh2OoCFQAAAAAdAAAAABAU" />
   
 **Talking about Personal Stuffs:**
 
