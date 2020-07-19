@@ -19,8 +19,7 @@
 <br />
 
 Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, live Jakarta, currently, Manage my own team for open source project on AmrelCorp 👨🏽‍💻 , Classic music fans and interest with strategic Game.
-## interest with Competitive
-## from ZERO to HERO
+# "<i>from ZERO to HERO</i>"
   <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/156900368349998017/286F2F782AF66585F202F2328F6D9DE21175E3DC/" />
   
 **Talking about Personal Stuffs:**
