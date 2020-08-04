@@ -33,7 +33,6 @@ Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, liv
 - 📫 How to reach me: riqkikamal@outlook.com;
 
 
-<img align="left" alt="JPG" src="https://pbs.twimg.com/media/Bh2UvXrCMAA-Nr9?format=png&name=large" height="300" width="300" />
 **my Weapon for war with CODE:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
