@@ -24,8 +24,8 @@ Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, liv
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Bali Cipta Inovator;
-- 🌱 I’m currently learning Javascript and Kotlin; 
+- 👨🏽‍💻 I’m currently working as React Native Developer;
+- 🌱 I’m currently learning Javascript; 
 - 🤔 I’m looking for help with Data Structures, design pattern and Algorithms 😭;
 - 💼 I'm pursuing Bachelor degree on computer science in Binus University
 - 💬 Ask me about anything, I am happy to help;
