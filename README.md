@@ -18,15 +18,14 @@
 <br />
 <br />
 
-Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, live Jakarta, currently, Manage my own team for open source project on AmrelCorp 👨🏽‍💻 , Classic music fans and interest with strategic Game.
+Hi, I'm Riqki Kamal Amrela, Software Engineer 🚀 from Indonesia, live Jakarta, currently focus on Golang for development build 👨🏽‍💻 , Classic music fans and interest with strategic Game.
 # "<i>from ZERO to HERO</i>"
   <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/156900368349998017/286F2F782AF66585F202F2328F6D9DE21175E3DC/" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as React Native Developer;
-- 🌱 I’m currently learning Javascript; 
-- 🤔 I’m looking for help with Data Structures, design pattern and Algorithms 😭;
+- 👨🏽‍💻 I’m currently working as Backend Developer;
+- 🌱 I’m currently learning Rust and GO; 
 - 💼 I'm pursuing Bachelor degree on computer science in Binus University
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: riqkikamal@outlook.com;
@@ -35,6 +34,7 @@ Hi, I'm Riqki Kamal Amrela, a Junior Frontend Developer 🚀 from Indonesia, liv
 **my Weapon for war with CODE:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
