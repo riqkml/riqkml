@@ -20,7 +20,6 @@
 
 Hi, I'm Riqki Kamal Amrela, Software Engineer 🚀 from Indonesia, live Jakarta, currently focus on Golang for development build 👨🏽‍💻 , Classic music fans and interest with strategic Game.
 # "<i>from ZERO to HERO</i>"
-  <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/156900368349998017/286F2F782AF66585F202F2328F6D9DE21175E3DC/" />
   
 **Talking about Personal Stuffs:**
 
@@ -45,7 +44,6 @@ Hi, I'm Riqki Kamal Amrela, Software Engineer 🚀 from Indonesia, live Jakarta,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 
 
